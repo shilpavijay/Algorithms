@@ -12,7 +12,7 @@ Fun with Math:
 
 Puzzles:
 
-1. Leader of the Array Problem
+1. Leader of the Array 
 2. Linked List Traversal
-3. Multiplicative Problem
+3. Multiplicative
 
