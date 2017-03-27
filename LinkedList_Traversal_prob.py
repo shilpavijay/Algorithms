@@ -8,7 +8,7 @@ class IntList(object):
 
 #Write code to traverse through the Linked List to find the total number of /values stored in the linked list
 
-############only traversal#############
+############traversal#############
 
 def solution(L):
 	root = L.value
