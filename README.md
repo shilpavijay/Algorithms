@@ -1,6 +1,18 @@
-Simplified implementations of Some Interesting Problems and Algorithms using Python:
+Simplified implementations of Some Interesting Problems and Algorithms using Python.
+
+Algorithms:
+
+1. Bubble Sorting technique
+2. Merge Sort - Divide and Conquer technique
 
 
-1. Fibonacci Series
-2. Bubble Sorting technique
-3. Merge Sort - Divide and Conquer technique
+Fun with Math:
+
+1. Fibonacci Number and Series
+
+Puzzles:
+
+1. Leader of the Array Problem
+2. Linked List Traversal
+3. Multiplicative Problem
+
