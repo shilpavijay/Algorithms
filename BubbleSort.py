@@ -7,6 +7,6 @@ def BubbleSort(l):
 	return l
 
 
-lst = [87,34,1,2,344,23,9,12,3,455,21]
+lst = [87,34,1,2,344,23,9,12,3,455,21]	
 print(lst)
 print('Sorted List: ' + str(BubbleSort(lst)))
