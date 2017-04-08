@@ -8,7 +8,8 @@ Algorithms:
 1. Bubble Sorting technique
 2. Merge Sort - Divide and Conquer technique
 3. Binary Search - Divide and Conquer technique again.
-
+4. Binary Tree:
+	- In-order, Pre-order, Post-order Tree Traversal
 
 Fun with Math:
 
