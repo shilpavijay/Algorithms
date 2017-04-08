@@ -52,17 +52,31 @@ class Btree:
 			self.postOrder(node.right)
 			print(node.key)
 
-
+	def DFS(self,search,node):
+		if node is not None:
+			key = node.key
+			print(key)
 		
+			if key == search:
+				print("Found")
+			elif search < key:
+				self.DFS(search,node.left)
+			else:
+				self.DFS(search,node.right)
+		else:
+			print("Not Found")
 
 if __name__ == "__main__":
-	print("Creating the BTree")
+	# Creating the BTree:
 	bt = Btree()
 	array = [8,12,3,1,4,18,20]
 	for i in array:
 		bt.createTree(i)
-	print("Pre-Order Traversal: ")
+	print("\nPre-Order Traversal: ")
 	bt.preOrder(bt.root)
-	print("In-Order Traversal: ")
+	print("\nIn-Order Traversal: ")
 	bt.inOrder(bt.root)
-	print("Post-Order Traversal")
+	print("\nPost-Order Traversal")
+	bt.postOrder(bt.root)
+	print("\nDepth First Search. \nWill Return 'Found' or 'Not Found' dependind on the presence of the given element. \nAlso prints the order of search:")
+	bt.DFS(2,bt.root)

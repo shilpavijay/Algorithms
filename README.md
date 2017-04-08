@@ -10,6 +10,7 @@ Algorithms:
 3. Binary Search - Divide and Conquer technique again.
 4. Binary Tree:
 	- In-order, Pre-order, Post-order Tree Traversal
+	- Depth First Search
 
 Fun with Math:
 
