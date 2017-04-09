@@ -22,3 +22,4 @@ Puzzles:
 2. Linked List Traversal
 3. Multiplicative
 
+SQL queries
