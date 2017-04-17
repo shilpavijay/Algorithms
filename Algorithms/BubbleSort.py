@@ -4,6 +4,7 @@ def BubbleSort(l):
 			if l[i] > l[i+1]:
 				l[i],l[i+1] = l[i+1],l[i]  #swap
 			i += 1
+		print(l)
 	return l
 
 
