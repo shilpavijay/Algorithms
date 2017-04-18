@@ -53,7 +53,7 @@ mysql> select dept,sum(sal),count(*)
     -> group by dept
     -> having count(*) >=2;
 
-Q5: Write an SQL Query find number of employees according to gender  whose sal is greater than 50000
+Q5: Write a SQL Query find number of employees according to gender whose sal is greater than 50000
 
 mysql> select gender,count(*)
     -> from emp

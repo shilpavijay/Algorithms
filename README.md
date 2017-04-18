@@ -11,6 +11,7 @@ Algorithms:
 4. Binary Tree:
 	- In-order, Pre-order, Post-order Tree Traversal
 	- Depth First Search
+5. Insertion sort - Decrease and Conquer technique
 
 Fun with Math:
 
