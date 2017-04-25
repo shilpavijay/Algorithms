@@ -1,3 +1,7 @@
+#Insertion Sort
+#Time Complexity: 
+#Avg and worst case: O^n
+#Best case: n
 
 def insertionSort(lst):
 	n = len(lst)
