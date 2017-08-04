@@ -1,11 +1,17 @@
 """ Quicksort """
 
 """
-Quicksort is a divide and conquer algorithm which sorts the given array with an average time complexity of O(NlogN).
+Quicksort is a divide and conquer algorithm which sorts the given array 
+with an average time complexity of O(NlogN).
 
-  A pivot is selected (mostly the first element of the array) and all the elements less than the pivot are moved to the left of the pivot. The process is again continued by sorting the left and right part of the Array repeatedly until all the elements have undergone sorting. 
+A pivot is selected (mostly the first element of the array) and all the 
+elements less than the pivot are moved to the left of the pivot. The process 
+is again continued by sorting the left and right part of the Array repeatedly 
+until all the elements have undergone sorting. 
 
-  Here i denotes the boundary between elements less than the pivot element and those greater than it. j denotes the boundary between partition and unpartitioned part of the Array
+Here i denotes the boundary between elements less than the pivot element and those 
+greater than it. j denotes the boundary between partition and unpartitioned part of the Array
+
 """
 
 def partition(Arr,strt,end):
