@@ -11,8 +11,10 @@ Algorithms:
 3. Bubble Sorting technique
 4. Merge Sort - Divide and Conquer technique
 5. Quick Sort - Divide and Conquer 
-6. Insertion sort - Decrease and Conquer technique
-7. Binary Tree:
+6. Insertion Sort - Decrease and Conquer technique
+7. Counting Sort
+
+8. Binary Tree:
 	- In-order, Pre-order, Post-order Tree Traversal
 	- Depth First Search
 
