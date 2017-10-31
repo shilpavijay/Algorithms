@@ -5,7 +5,7 @@ Simplified implementations of Some Interesting Problems and Algorithms using Pyt
 
 Algorithms:
 
-1. Binary Search - Divide and Conquer technique
+1. [Binary Search - Divide and Conquer technique](Algorithms/BinarySearch.py)
 2. Ternary Search - Divide and Conquer 
 
 3. Bubble Sorting technique
