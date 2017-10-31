@@ -1,7 +1,7 @@
 Algorithms Problems Techniques
 -------------------------------------
 
-Simplified implementations of Some Interesting Problems and Algorithms using Python.
+Simplified implementations of Some Interesting Problems and Algorithms using Python/Javascript.
 
 Algorithms:
 
@@ -21,6 +21,7 @@ Algorithms:
 Fun with Math:
 
 1. Fibonacci Number and Series
+2. Convert a Decimal to a Roman Numeral
 
 Puzzles:
 
