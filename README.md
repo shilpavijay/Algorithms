@@ -32,4 +32,5 @@ Puzzles:
 2. [Linked List Traversal](Pzzles/LinkedList_Traversal_prob.py)
 3. [Multiplicative](Puzzles/multiplicative_prob.py)
 
-[SQL queries](SQL queries)
+[SQL queries](SQL_queries)
+-------------
