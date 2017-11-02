@@ -31,6 +31,7 @@ Puzzles:
 1. [Leader of the Array](Puzzles/Leader_of_the_array_prob.py)
 2. [Linked List Traversal](Pzzles/LinkedList_Traversal_prob.py)
 3. [Multiplicative](Puzzles/multiplicative_prob.py)
+4. [Flatten a Nested Array with Variable levels of nesting](Puzzles/FlattenArray.js)
 
 [SQL queries](SQL_queries)
 -------------
