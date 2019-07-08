@@ -3,21 +3,45 @@ Algorithms Problems Techniques
 
 Simplified implementations of Some Interesting Problems and Algorithms using Python/Javascript.
 
+Data Structures:
+----------------
+1. [Stack](DataStructures/Stack.py)
+2. [Queue](DataStructures/Queue.py)
+3. [Doubly Linked List](DataStructures/DoublyLinkedList.py)
+4. [Binary Search Tree](DataStructures/BST.py)
+5. [Trie/ Digital Tree/ Prefix Tree/ Radix Tree](DataStructures/Trie.py)
+6. [Splay Tree](DataStructures/SplayTree.py)
+7. AVL Tree
+8. PAT or Suffix Tree
+9. Red Black Tree
+10. Heap
+
 Implementation of Algorithms:
 -----------------------------
 
-1. [Binary Search - Divide and Conquer technique](Algorithms/BinarySearch.py)
-2. [Ternary Search - Divide and Conquer](Algorithms/TernarySearch.py)
+- Sorting:
+-----------
+1. [Bubble Sorting technique](Algorithms/BubbleSort.py)
+2. [Counting Sort](Algorithms/TernarySearch.py)
 
-3. [Bubble Sorting technique](Algorithms/BubbleSort.py)
-4. [Merge Sort - Divide and Conquer technique](Algorithms/MergeSort.py)
-5. [Quick Sort - Divide and Conquer](Algorithms/QuickSort.py) 
-6. [Insertion Sort - Decrease and Conquer technique](Algorithms/insertionSort.py)
-7. [Counting Sort](Algorithms/TernarySearch.py)
+- Divide and Conquer:
+---------------------
+1. [Merge Sort - Divide and Conquer technique](Algorithms/MergeSort.py)
+2. [Quick Sort - Divide and Conquer](Algorithms/QuickSort.py) 
+3. [Binary Search - Divide and Conquer technique](Algorithms/BinarySearch.py)
+4. [Ternary Search - Divide and Conquer](Algorithms/TernarySearch.py)
 
-8. Binary Tree:
+- Decrease and Conquer:
+------------------------
+1. [Insertion Sort - Decrease and Conquer technique](Algorithms/insertionSort.py)
+
+-Others:
+-------
+1. Binary Tree:
 	- [In-order, Pre-order, Post-order Tree Traversal](Algorithms/BTree.py)
 	- [Depth First Search](Algorithms/BTree.py)
+2. [Sieve Of Eratosthenes](Algorithms/SieveOfEratosthenes.py)
+
 
 Fun with Math:
 --------------
