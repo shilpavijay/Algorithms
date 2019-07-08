@@ -19,23 +19,23 @@ Data Structures:
 Implementation of Algorithms:
 -----------------------------
 
-- Sorting:
+Sorting:
 -----------
 1. [Bubble Sorting technique](Algorithms/BubbleSort.py)
 2. [Counting Sort](Algorithms/TernarySearch.py)
 
-- Divide and Conquer:
+Divide and Conquer:
 ---------------------
 1. [Merge Sort - Divide and Conquer technique](Algorithms/MergeSort.py)
 2. [Quick Sort - Divide and Conquer](Algorithms/QuickSort.py) 
 3. [Binary Search - Divide and Conquer technique](Algorithms/BinarySearch.py)
 4. [Ternary Search - Divide and Conquer](Algorithms/TernarySearch.py)
 
-- Decrease and Conquer:
+Decrease and Conquer:
 ------------------------
 1. [Insertion Sort - Decrease and Conquer technique](Algorithms/insertionSort.py)
 
--Others:
+Others:
 -------
 1. Binary Tree:
 	- [In-order, Pre-order, Post-order Tree Traversal](Algorithms/BTree.py)
