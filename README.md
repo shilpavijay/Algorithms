@@ -11,10 +11,11 @@ Data Structures:
 4. [Binary Search Tree](DataStructures/BST.py)
 5. [Trie/ Digital Tree/ Prefix Tree/ Radix Tree](DataStructures/Trie.py)
 6. [Splay Tree](DataStructures/SplayTree.py)
-7. AVL Tree
-8. PAT or Suffix Tree
-9. Red Black Tree
-10. Heap
+7. [Ring Buffer/Circular Queue](DataStructures/RingBuffer.py)
+8. AVL Tree
+9. PAT or Suffix Tree
+10. Red Black Tree
+11. Heap
 
 Implementation of Algorithms:
 -----------------------------
