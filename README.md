@@ -42,7 +42,7 @@ Others:
 	- [In-order, Pre-order, Post-order Tree Traversal](Algorithms/BTree.py)
 	- [Depth First Search](Algorithms/BTree.py)
 2. [Sieve Of Eratosthenes](Algorithms/SieveOfEratosthenes.py)
-4. [Pascal's Triangle](Puzzles/PascalTriangle.py)
+4. [Pascal's Triangle](Algorithms/PascalTriangle.py)
 
 
 Fun with Math:
